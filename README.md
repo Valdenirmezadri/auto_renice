@@ -14,7 +14,7 @@ versao 0.1
 #  DESENVOLVIDO_POR
   Valdenir Luíz Mezadri Junior			- valdenirmezadri@live.com
 
-  MODIFICADO_POR		(DD/MM/YYYY)
+#  MODIFICADO_POR		(DD/MM/YYYY)
   Valdenir Luíz Mezadri Junior	25/01/2018	- Criado script
 
 # Configurando processos:
