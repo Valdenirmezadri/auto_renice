@@ -18,7 +18,8 @@
 #  Valdenir Luíz Mezadri Junior	25/01/2018	- Criado script
 #
 #########################################################################################################################################
-TEMPO_CHECK="3"
+TEMPO_CHECK="3" #Em segundos de quanto em quanto tempo é para rodar o script
+
 while true; do
 { while IFS=';' read  processo nice
   do
